@@ -45,8 +45,8 @@ Cada tutorial cuenta con:
 Ambos archivos están organizados en **Google Drive** dentro de las carpetas:
 
 📎 **Enlaces a Drive:**
-- 📂 [Carpeta de Tutoriales]([https://drive.google.com/drive/folder/TU_LINK_TUTORIALES](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing))  
-- 📂 [Carpeta de Desafíos]([https://drive.google.com/drive/folder/TU_LINK_DESAFIOS](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing))
+- 📂 [Carpeta de Tutoriales](https://drive.google.com/drive/folder/TU_LINK_TUTORIALES](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)  
+- 📂 [Carpeta de Desafíos](https://drive.google.com/drive/folder/TU_LINK_DESAFIOS](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing)
 
 > 🔸 *Cada carpeta contiene el PDF y el video correspondiente a cada práctica realizada.*
 
