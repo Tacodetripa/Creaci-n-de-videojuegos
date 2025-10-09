@@ -19,43 +19,37 @@ Accede al sitio oficial de **Juego de Plataformas 2D** para seguir los tutoriale
 ### 🔹 Paso 2 — Tutoriales a observar
 Sigue los siguientes videos y replica su funcionalidad dentro de tu proyecto Unity:
 
-| N.º | Tema del video | Descripción |
-|:--:|:---------------------------|:------------------------------|
-| 01 | **Creación del mundo** | Construcción del entorno inicial y plataformas. |
-| 02 | **Movimiento y salto** | Programación del control del personaje. |
-| 03 | **Recoger frutas** | Implementación de objetos coleccionables. |
-| 04 | **Animaciones de personaje** | Integración de sprites y Animator Controller. |
-| 05 | **Enemigos** | Creación de enemigos con IA básica. |
-| 06 | **Niveles** | Diseño y transición entre niveles. |
-| 07 | **CheckPoint** | Sistema de guardado temporal. |
-| 08 | **Nuevos personajes** | Adición de más jugadores o avatares. |
-| 09 | **Menú Principal** | Creación de interfaz inicial funcional. |
-| 10 | **Controles para móvil** | Adaptación de controles táctiles. |
-| 11 | **Score** | Sistema de puntuación visible. |
-| 12 | **Vidas** | Gestión de vidas y reinicio del juego. |
+| N.º | Tema del video | Descripción | 🎥 Link del Video | 📄 Link del PDF |
+|:--:|:---------------------------|:------------------------------|:------------------:|:----------------:|
+| 01 | **Creación del mundo** | Construcción del entorno inicial y plataformas. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 02 | **Movimiento y salto** | Programación del control del personaje. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 03 | **Recoger frutas** | Implementación de objetos coleccionables. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 04 | **Animaciones de personaje** | Integración de sprites y Animator Controller. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 05 | **Enemigos** | Creación de enemigos con IA básica. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 06 | **Niveles** | Diseño y transición entre niveles. | [Ver Video](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing) |
+| 07 | **CheckPoint** | Sistema de guardado temporal. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+| 08 | **Nuevos personajes** | Adición de más jugadores o avatares. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+| 09 | **Menú Principal** | Creación de interfaz inicial funcional. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+| 10 | **Controles para móvil** | Adaptación de controles táctiles. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+| 11 | **Score** | Sistema de puntuación visible. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+| 12 | **Vidas** | Gestión de vidas y reinicio del juego. | [Ver Video](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) | [PDF](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing) |
+
+## 👨‍💻 Autor
+**Nombre:** Roberto Alexis Díaz Galindo  
+**Carrera:** Ingeniería en Desarrollo y Gestión de Software  
+**Institución:** [Nombre de tu universidad o instituto]  
+**Periodo:** [Indica el semestre o fecha de entrega]  
 
 ---
 
-## 🗂️ Organización del Entregable
-
-Cada tutorial cuenta con:
-- 📄 Un **PDF** con explicación paso a paso (imágenes, código, resultados).
-- 🎥 Un **video corto** mostrando el funcionamiento del juego.
-
-Ambos archivos están organizados en **Google Drive** dentro de las carpetas:
-
-📎 **Enlaces a Drive:**
-- 📂 [Carpeta de Tutoriales](https://drive.google.com/drive/folders/1bDGwNxNBZLVNE05Yp-NcbU2LmvZ8BZqp?usp=sharing)  
-- 📂 [Carpeta de Desafíos](https://drive.google.com/drive/folders/1BEzr3Sprij3yGnPtmhnqKyUGRVMIRIHw?usp=sharing)
-
-> 🔸 *Cada carpeta contiene el PDF y el video correspondiente a cada práctica realizada.*
+📚 **Recursos adicionales**
+- [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)  
+- [Documentación oficial de Unity](https://docs.unity3d.com/)  
+- [Descargar Unity Hub](https://unity.com/download)
 
 ---
 
-## 💻 Estructura del proyecto en GitHub
-
-El código fuente del proyecto Unity está disponible en este repositorio, organizado de la siguiente manera:
-
+🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
 
 
 
@@ -154,6 +148,7 @@ El código fuente del proyecto Unity está disponible en este repositorio, organ
 ---
 
 🕹️ *“Crea, experimenta y juega con tus propias reglas.”*
+
 
 
 
