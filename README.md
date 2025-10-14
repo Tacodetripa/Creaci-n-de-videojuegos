@@ -46,7 +46,9 @@ La siguiente tabla detalla los 12 tutoriales completados, incluyendo los enlaces
 
 ---
 
-# 🎮 Actividad 2: Videojuego Resultado
+
+
+# 🎮 Actividad 2: Desarrollo de Videojuego 2D o 3D  
 
 **Valor de la Actividad:** 20 puntos (Saber) + 20 puntos (Saber Hacer)
 
@@ -85,13 +87,20 @@ Se siguieron los siguientes pasos para la creación del videojuego 2D/3D:
 
 A continuación, se presenta la tabla de rúbrica, confirmando que cada criterio ha sido cubierto con una calidad que apunta a **Excelente**.
 
-| Criterio | Descripción del Criterio | Nivel de Implementación |
-| :--- | :--- | :--- |
-| **1. Funcionamiento Técnico General** | El juego corre sin errores, con mecánicas bien implementadas y fluidez constante. | ✅ **Excelente** |
-| **2. GUI y Menú Principal** | Interfaz intuitiva, estética coherente, menú funcional con navegación clara. | ✅ **Excelente** |
-| **3. Mapa de Mundo Interactivo** | Mapa funcional con transiciones entre niveles y diseño visual atractivo. | ✅ **Excelente** |
-| **4. Sonido y Ambientación** | Música, efectos y ambientación sonora bien integrados y coherentes. | ✅ **Excelente** |
-| **5. Niveles y Progresión** | Tiene al menos tres niveles bien diferenciados y con dificultad progresiva. | ✅ **Excelente** |
-| **6. Línea de Vida o Sistema de Salud** | Sistema funcional, visible y coherente con la mecánica del juego. | ✅ **Excelente** |
-| **7. Narrativa y Objetivos del Juego** | Historia clara, motivadora, con misiones bien definidas. | ✅ **Excelente** |
-| **8. Sistema de Score o Puntuación** | Score visible, funcional, con retroalimentación clara y coherente con el gameplay. | ✅ **Excelente** |
+| Criterio | Excelente (6.25 pts) | Bueno (5 pts) | Aceptable (3.75 pts) | Insuficiente (1–2.5 pts) |
+|:--|:--|:--|:--|:--|
+| **1. Funcionamiento técnico general** | Juego fluido, sin errores, mecánicas bien implementadas. | Funcional con errores mínimos. | Errores menores que afectan la experiencia. | Fallos graves o no funcional. |
+| **2. GUI y menú principal** | Interfaz intuitiva, estética y funcional. | Menú funcional pero mejorable. | Menú básico o poco atractivo. | Menú ausente o sin función clara. |
+| **3. Mapa de mundo interactivo** | Transiciones funcionales entre niveles y diseño visual atractivo. | Mapa presente con transiciones básicas. | Interacción limitada o confusa. | Sin mapa o sin función. |
+| **4. Sonido y ambientación** | Sonidos coherentes e integrados. | Sonido presente pero limitado. | Sonido básico o repetitivo. | Sin sonido o con errores. |
+| **5. Niveles y progresión** | ≥ 3 niveles con progresión clara y dificultad creciente. | 3 niveles funcionales con poca diferencia. | Menos de 3 niveles o sin progresión. | Solo un nivel o sin avance. |
+| **6. Línea de vida / salud** | Sistema funcional y coherente. | Presente con detalles menores. | Básico o poco claro. | Ausente o no funcional. |
+| **7. Narrativa y objetivos** | Historia clara y misiones bien definidas. | Narrativa presente pero poco desarrollada. | Objetivos sin motivación clara. | Sin historia ni objetivos. |
+| **8. Sistema de Score o puntuación** | Score visible y coherente con el gameplay. | Funcional pero mejorable. | Básico o poco claro. | Sin sistema de puntuación o inoperante. |
+
+---
+
+## 📎 Recursos adicionales
+- [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)
+- [Documentación oficial de Unity](https://docs.unity3d.com/)
+- [Descargar Unity Hub](https://unity.com/download)
