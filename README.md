@@ -31,7 +31,7 @@ La siguiente tabla detalla los 12 tutoriales completados, incluyendo los enlaces
 
 | Vídeo No. | Temática | Enlace al Vídeo (Demostración) | Enlace al PDF (Documentación) |
 | :---: | :--- | :---: | :---: |
-| 01 | **Creación del mundo** | [Link del Vídeo 01] | [Link al PDF 01] |
+| 01 | **Creación del mundo** | [[Link del Vídeo 01]](https://drive.google.com/drive/folders/1kyKsAhycA8BgkXTnT00-QBXf6wb4QI1z?usp=sharing) | [[Link al PDF 01]](https://drive.google.com/drive/folders/1NyoJ6MVMfoRuBvm3kahaqCMBMQJY1VTN?usp=sharing) |
 | 02 | **Movimiento y Salto** | [Link del Vídeo 02] | [Link al PDF 02] |
 | 03 | **Recoger Frutas** | [Link del Vídeo 03] | [Link al PDF 03] |
 | 04 | **Animaciones de personaje** | [Link del Vídeo 04] | [Link al PDF 04] |
@@ -104,3 +104,4 @@ A continuación, se presenta la tabla de rúbrica, confirmando que cada criterio
 - [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)
 - [Documentación oficial de Unity](https://docs.unity3d.com/)
 - [Descargar Unity Hub](https://unity.com/download)
+
