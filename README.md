@@ -32,8 +32,8 @@ La siguiente tabla detalla los 12 tutoriales completados, incluyendo los enlaces
 | Vídeo No. | Temática | Enlace al Vídeo (Demostración) | Enlace al PDF (Documentación) |
 | :---: | :--- | :---: | :---: |
 | 01 | **Creación del mundo** | [[Link del Vídeo 01]](https://drive.google.com/drive/folders/1kyKsAhycA8BgkXTnT00-QBXf6wb4QI1z?usp=sharing) | [[Link al PDF 01]](https://drive.google.com/drive/folders/1NyoJ6MVMfoRuBvm3kahaqCMBMQJY1VTN?usp=sharing) |
-| 02 | **Movimiento y Salto** | [Link del Vídeo 02] | [Link al PDF 02] |
-| 03 | **Recoger Frutas** | [Link del Vídeo 03] | [Link al PDF 03] |
+| 02 | **Movimiento y Salto** | [[Link del Vídeo 02]](https://drive.google.com/drive/folders/1FPxIPN49wmgof4lsMuQdYQs2M5i1ZGN6?usp=sharing) | [[Link al PDF 02]](https://drive.google.com/drive/folders/1qlBYknAIxRBotngBlmhxj5pCAt1Hlu0x?usp=sharing) |
+| 03 | **Recoger Frutas** | [[Link del Vídeo 03]](https://drive.google.com/drive/folders/18prtCPwZtE3PM4l0mJjIKc7aGKY3LedV?usp=sharing) | [[Link al PDF 03]](https://drive.google.com/drive/folders/1keguyHJ0EMeo0FeZSMEFrppSC6ri5Ihz?usp=sharing) |
 | 04 | **Animaciones de personaje** | [Link del Vídeo 04] | [Link al PDF 04] |
 | 05 | **Enemigos** | [Link del Vídeo 05] | [Link al PDF 05] |
 | 06 | **Niveles** | [Link del Vídeo 06] | [Link al PDF 06] |
@@ -104,4 +104,5 @@ A continuación, se presenta la tabla de rúbrica, confirmando que cada criterio
 - [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)
 - [Documentación oficial de Unity](https://docs.unity3d.com/)
 - [Descargar Unity Hub](https://unity.com/download)
+
 
