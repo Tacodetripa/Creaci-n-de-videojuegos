@@ -36,7 +36,7 @@ La siguiente tabla detalla los 12 tutoriales completados, incluyendo los enlaces
 | 03 | **Recoger Frutas** | [[Link del Vídeo 03]](https://drive.google.com/drive/folders/18prtCPwZtE3PM4l0mJjIKc7aGKY3LedV?usp=sharing) | [[Link al PDF 03]](https://drive.google.com/drive/folders/1keguyHJ0EMeo0FeZSMEFrppSC6ri5Ihz?usp=sharing) |
 | 04 | **Animaciones de personaje** | [[Link del Vídeo 04]](https://drive.google.com/drive/folders/1zrmy5Wd31pz_0-764yxlL6aIneDueBWc?usp=sharing) | [[Link al PDF 04]](https://drive.google.com/drive/folders/1VRHLw5JDWsqUT7mTxRfz1UcmyNna8Rkf?usp=sharing) |
 | 05 | **Enemigos** | [[Link del Vídeo 05]](https://drive.google.com/drive/folders/1TOHvt4hWsdGJrcXSwDa81Y1pxpD_41U8?usp=sharing) | [[Link al PDF 05]](https://drive.google.com/drive/folders/1Lb3KKzYtQFLscG1Vtp0Z6XKM_N0nHbpW?usp=sharing) |
-| 06 | **Niveles** | [Link del Vídeo 06] | [Link al PDF 06] |
+| 06 | **Niveles** | [[Link del Vídeo 06]](https://drive.google.com/drive/folders/1lZ5QmO_TzI1f7huDwyR5DkAeC0m5xuyx?usp=sharing) | [[Link al PDF 06]](https://drive.google.com/drive/folders/1Tw7-7zXS7RDuT1Et4dujH5oaFiVKgQ7e?usp=sharing) |
 | 07 | **CheckPoint** | [Link del Vídeo 07] | [Link al PDF 07] |
 | 08 | **Nuevos personajes** | [Link del Vídeo 08] | [Link al PDF 08] |
 | 09 | **Menú Principal** | [Link del Vídeo 09] | [Link al PDF 09] |
@@ -104,6 +104,7 @@ A continuación, se presenta la tabla de rúbrica, confirmando que cada criterio
 - [Unity Learn — 2D Platformer Game Tutorial](https://learn.unity.com/project/2d-platformer-template)
 - [Documentación oficial de Unity](https://docs.unity3d.com/)
 - [Descargar Unity Hub](https://unity.com/download)
+
 
 
 
